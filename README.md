@@ -1,2 +1,2 @@
 # Istara-TodoRepo
-Istara Todo Reository
+Istara Todo Repository
